@@ -7,11 +7,11 @@ This web app lets users share and vote on the quirkiest items people keep in the
 - Item submissions with photos and descriptions
 - Voting system and weekly leaderboard
 - Category-based browsing
-- Search and filter options
+- Search and  filter options
 
 **Tech Stack**
-- **Frontend**: HTML,CSS,js,React.
-- **Backend**: Node.js,Express.
+- **Frontend**: HTML ,CSS,js,React.
+- **Backend**: Node.js ,Express.
 - **Data-base**: MongoDB
 
 **Why This Project**
